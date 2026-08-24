@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
+static/images/Program analysis logic explanation - Claude_files/
+static/images/Program analysis logic explanation - Claude.html
